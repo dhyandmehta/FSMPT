@@ -1,5 +1,10 @@
 # MODULE 3: FUNDAMENTALS OF SEMICONDUCTOR PACKAGING MATERIALS, QUALITY & RELIABILITY
 
+This module covers the core **materials, structures, and reliability mechanisms** used in semiconductor packaging.  
+It explains how package materials interact under mechanical, thermal, and electrical stress conditions across real manufacturing flows.  
+It also connects material behavior to failure modes and reliability qualification methods used in ATMP environments.  
+The focus is on building a practical understanding of how packaging decisions impact long-term device performance and yield.
+
 ---
 ## Table of Contents
 
