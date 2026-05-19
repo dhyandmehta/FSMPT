@@ -1,4 +1,4 @@
-# MODULE 4: FUNDAMENTALS OF IC PACKAGE FAILURE ANALYSIS
+# Module 4: Fundamentals Of Ic Package Failure Analysis
 
 This module covers key packaging materials (EMC, substrate, interconnects, solder systems) and their role in IC package performance.
 It also introduces reliability fundamentals including thermal, mechanical, and moisture stress behavior.
@@ -150,8 +150,6 @@ Applying the FA flow to real-world scenarios:
 
 <div align="center">
 
-**Dhyan Mehta**
-B.E. ECE
 
 [![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
@@ -159,6 +157,5 @@ B.E. ECE
 </div>
 
 ---
-
 
 ⭐ Star this repository if you found it useful.
