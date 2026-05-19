@@ -1,11 +1,21 @@
-# FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST
+# Module 1: Semiconductor Backend Manufacturing (ATMP) Masterclass
 
-# Semiconductor Backend Manufacturing (ATMP) Masterclass
-
-![Domain](https://img.shields.io/badge/Domain-VLSI%20%26%20ATMP-orange.svg)
-![Status](https://img.shields.io/badge/Status-Module%201%20Completed-brightgreen.svg)
 
 This repository contains the complete, unabridged documentation of the **Semiconductor Backend Manufacturing (Assembly & Test)** curriculum. This covers the entire Assembly, Testing, Marking, and Packaging (ATMP) flow. 
+
+---
+
+## Table of Contents
+
+1. [Lecture 1: New Product Introduction (NPI) & Memory Packaging](#chapter-1-lecture-1-new-product-introduction-npi--memory-packaging)
+2. [Lecture 2: Introduction to Backend Assembly Processes](#chapter-1-lecture-2-introduction-to-backend-assembly-processes)
+3. [Lecture 3: Die Preparation Step](#chapter-1-lecture-3-die-preparation-step)
+4. [Lecture 4: Die Attach Process](#chapter-1-lecture-4-die-attach-process)
+5. [Lecture 5: Wirebond Assembly Process](#chapter-1-lecture-5-wirebond-assembly-process)
+6. [Lecture 6: Flip Chip & Underfill Technology](#chapter-1-lecture-6-flip-chip--underfill-technology)
+7. [Lecture 7: Encapsulation & Laser Marking](#chapter-1-lecture-7-encapsulation--laser-marking)
+8. [Lecture 8: Solder Ball Attach & Reflow](#chapter-1-lecture-8-solder-ball-attach--reflow)
+9. [Lecture 9: Singulation](#chapter-1-lecture-9-singulation)
 
 ---
 
