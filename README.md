@@ -99,13 +99,13 @@ Final Product
 
 ---
 
-# Support
+# 🤝 Support
 
-If you found this repository useful:
+If you found this repository useful, you can support it by:
 
-Star the repository ⭐
-Fork the repository  
-Share with semiconductor learners
+- ⭐ Starring the repository  
+- 🍴 Forking the repository  
+- 📢 Sharing it with semiconductor learners  
 
 ---
 
