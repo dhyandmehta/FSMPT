@@ -26,8 +26,8 @@ The lifecycle of a memory chip moves from design, through wafer-level fabricatio
 2. **Assembly:** Connecting silicon to the external system.
 3. **Final Test (Post-Assembly):** Functional package-level testing.
 
-![Image 1 - Memory Chip Lifecycle Flow](images/mod2_day1_img1.png)
-![Image 2 - Semiconductor Cluster Ecosystem](images/mod2_day1_img2.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0f7e99f9-ccb7-4e57-95f9-d5f48ad1e202" />
+
 
 ### MOSFET & NAND Flash Operations
 NAND Flash relies on manipulating the threshold voltage ($V_t$) of a floating-gate MOSFET. By trapping electrons in the intermediate "floating" gate (isolated by the IPD layer and tunnel oxide), the cell becomes non-volatile.
@@ -36,14 +36,14 @@ NAND Flash relies on manipulating the threshold voltage ($V_t$) of a floating-ga
 * **Erase:** Apply $+20\text{V}$ to the substrate/well. Electrons tunnel back out of the floating gate. The cell holds a `1` (low $V_t$).
 * **Read:** Apply $V_{read}$ ($0 \sim 0.8\text{V}$) to the CG. If current flows, the channel is inverted (cell holds `1`). If no current flows, electrons in the floating gate are blocking inversion (cell holds `0`).
 
-![Image 3 - MOSFET Structure](images/mod2_day1_img3.png)
-![Image 4 - Accumulation Depletion Inversion](images/mod2_day1_img4.png)
-![Image 5 - Floating Gate Architecture](images/mod2_day1_img5.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4adeda96-ca90-4655-93d9-150cf852d873" />
+
 
 ### The Shift to 3D NAND
 As 2D NAND scales down, cell-to-cell interference increases and $V_t$ distributions widen to unacceptable levels. **3D NAND** solves this by vertically stacking NAND cell strings, vastly increasing bit density without expanding the die's planar footprint.
 
-![Image 18 - 2D vs 3D NAND Architecture](images/mod2_day1_img18.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/313c0e71-6afe-4309-ae23-cd2e92b6808c" />
+
 
 ---
 
@@ -56,16 +56,16 @@ $$\text{Overall Yield} = \frac{\text{Number of passing dies}}{\text{Total dies p
 * **Passing Die:** Contains some failing cells, but is completely repairable.
 * **Failing Die:** Excess failures that cannot be repaired. Sorted into "bins."
 
-![Image 13 - Wafer Bin Map (WBM) Demonstration](images/mod2_day2_img13.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/98f97300-d65d-492f-93f2-5583b16da0bc" />
+
 
 ### Redundancy, Repair, and ECC
 To maximize yield, chips are built with redundant memory columns.
 * **Repair:** If a primary column fails, a high-voltage pulse blows internal fuses, routing the Read/Write addresses to a spare column via a Repair Decoder.
 * **Error Correction Code (ECC):** Complex algorithms that dynamically intercept and correct small numbers of bit flips before the erroneous data reaches the CPU.
 
-![Image 14 - Redundancy and Spare Column Rerouting](images/mod2_day2_img14.png)
-![Image 15 - Blown Fuse vs Un-Programmed Fuse](images/mod2_day2_img15.png)
-![Image 16 - Error Correction Code (ECC) Flow](images/mod2_day2_img16.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1e04d85e-d28e-44c9-83c5-a7b817186192" />
+
 
 ### Failure Analysis & Parametric Testing
 * **PFA (Physical Failure Analysis):** Uses advanced imaging to find physical defects on wafers.
@@ -82,8 +82,8 @@ To maximize yield, chips are built with redundant memory columns.
 3. **Heat Dissipation:** Manages thermal output to prevent silicon breakdown.
 4. **Hybrid Functionality:** Enables 3D stacking (like the Hybrid Memory Cube) or Multi-Chip Modules (MCM) combining Logic and NAND.
 
-![Image 18 - NAND Die Stacking Architecture](images/mod2_day3_img18.png)
-![Image 19 - Hybrid Memory Cube Layout](images/mod2_day3_img19.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d9f6b541-8ba6-4495-bdd7-83c996407da7" />
+
 
 ### Post-Assembly Test Flow
 The general sequence for a packaged unit:
@@ -92,8 +92,8 @@ The general sequence for a packaged unit:
 * **AOST:** Immediately checks for massive assembly defects like Head-on-Pillow (HoP), bridging, or non-wet opens (NWO).
 * **Final Test:** 100% of parts undergo extreme temperature sorting (Hot and Cold) to ensure they operate at advertised speeds.
 
-![Image 21 - Post-Assembly Test Flow Breakdown](images/mod2_day3_img21.png)
-![Image 22 - Common Surface Defects: HoP, Bridging, NWO](images/mod2_day3_img22.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/36c36690-f093-403a-8210-04383c8f8b52" />
+
 
 ---
 
@@ -106,10 +106,10 @@ Engineers rely on a specific suite of tools for electrical debugging:
 * **Oscilloscope:** Checks analog signal integrity, rise/fall times, and noise.
 * **Boundary Scan Testers (JTAG):** Observes individual pins arbitrarily to debug device functionality without physical probes.
 
-![Image 24 - Logic Analyzer](images/mod2_day4_img24.png)
-![Image 25 - Digital Multimeter](images/mod2_day4_img25.png)
-![Image 26 - Oscilloscope](images/mod2_day4_img26.png)
-![Image 27 - Boundary Scan Tester](images/mod2_day4_img27.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/b8ab2b2d-8b7b-4865-a72f-ac6834f90a81" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/e41a5f88-666a-42d8-bbf6-c4186c29bf87" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ec8fa902-1d31-4217-85b5-3418492a6884" />
+
 
 ### Automated Test Equipment (ATE) & Handlers
 **ATE Systems** are high-speed units loaded with sophisticated test programs. **Handlers** physically move parts from input trays, flip them vertically, press them into the ATE test head, and sort them into customer bins based on PASS/FAIL results.
@@ -130,8 +130,8 @@ Used to validate the reliability of a measurement system:
 Firmware acts as the bridge between the Host interface, the Microcontroller ($\mu\text{C}$), and the NAND array. The host interacts with the device as a "black box" by sending standard opcodes (ONFI standards).
 * Output data is sent to the Host via **UART** (Universal Asynchronous Receiver-Transmitter), converting bytes into a serial bit stream.
 
-![Image 34 - Host to mNAND Test Architecture](images/mod2_day5_img34.png)
-![Image 35 - Controller and NAND Interface Domains](images/mod2_day5_img35.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/1a9a13a7-3272-4679-a508-fa2eeb2a0190" />
+
 
 ### Strict Coding Conventions
 High-level languages (C/C++) ignore spaces, but human operators don't. Test engineers must adhere to strict formatting:
@@ -146,8 +146,8 @@ High-level languages (C/C++) ignore spaces, but human operators don't. Test engi
 ### The Reliability Bathtub Curve
 Burn-in testing applies high-voltage and high-temperature stress to packaged parts. The objective is to forcefully accelerate the lifespan of weak parts to weed out **"Infant Mortality"** failures before shipping. This guarantees the customer receives parts safely operating in their flat "Useful Life" phase.
 
-![Image 39 - The Reliability Bathtub Curve](images/mod2_day6_img39.png)
-![Image 40 - Burn-In Temperature Profile](images/mod2_day6_img40.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/aa651f55-022c-4a58-a93b-2a1c9941a582" />
+
 
 ### Burn-In Logistics
 1. **Load:** Parts transferred from trays to **Burn-In-Boards (BIBs)**.
@@ -156,8 +156,7 @@ Burn-in testing applies high-voltage and high-temperature stress to packaged par
 4. **Unload & Bin:** Good parts track to Final Test; Rejects are isolated.
 5. **BIB Maintenance:** Empty BIBs go to a fuse check station to replace damaged sockets/fuses.
 
-![Image 41 - Burn-In Oven Arrays](images/mod2_day6_img41.png)
-![Image 42 - Burn-In Boards (BIB) Loaded in Rack](images/mod2_day6_img42.png)
+
 
 ---
 
@@ -172,8 +171,8 @@ ATE focuses on interface protocols (eMMC, UFS) and high-speed operation, *not* d
 5. **Speed Tests:** Verifies Write/Read throughput.
 6. **Binning:** Sorts units physically.
 
-![Image 46 - ATE Test Flow Block Diagram](images/mod2_day7_img46.png)
-![Image 47 - Parametric and Firmware Loading Flow](images/mod2_day7_img47.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/22168db0-d506-4822-bce4-8db941b3ff2d" />
+
 
 ### Parametric Test Breakdown
 * **SHORTS:** Detects current leakage between voltage nodes (draws excess power).
@@ -199,7 +198,8 @@ As consumer data demands increase, storage interfaces shift from parallel to ser
 | **Command Queuing** | No | Yes |
 | **Multi-tasking** | Single Function | Multiple LUNs |
 
-![Image 52 - EMMC vs UFS Controller Architectures](images/mod2_day8_img52.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0e8541bf-9377-4da3-85e8-f0efcbb12a86" />
+
 
 ### Functional Quality Monitor (FQMON)
 During New Product Introduction (NPI), tests are run on 100% of the volume. As the product matures into High Volume Manufacturing (HVM), testing transitions to **Quality Monitoring**. FQMON utilizes specialized firmware on a sampled basis to continuously catch manufacturing line variations and validate real-world customer usage scenarios.
@@ -213,8 +213,9 @@ Aging testing executes continuous **Program / Write / Read** firmware cycles whi
 * This **Temperature Cycle Test (TCT)** mathematically accelerates the device lifecycle to guarantee it will survive its advertised lifespan in the field.
 * Tests can be **Failing** (hard stops if criteria aren't met) or **Monitoring** (data collection sweeps for engineering trend analysis).
 
-![Image 53 - Aging Test Sequence Position](images/mod2_day9_img53.png)
-![Image 54 - Temperature Cycle Test (TCT) Waveform](images/mod2_day9_img54.png)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d83ce436-adc1-46ec-8486-3919270b98f3" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/14b57835-4830-464e-bc37-876520a9febf" />
+
 
 ### Developer Discipline: Git & Jira Protocol
 When updating test firmware or ATE code, rigorous data hygiene prevents multi-million dollar manufacturing stoppages:
