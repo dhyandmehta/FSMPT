@@ -1,6 +1,17 @@
 # MODULE 3: FUNDAMENTALS OF SEMICONDUCTOR PACKAGING MATERIALS, QUALITY & RELIABILITY
 
 ---
+## Table of Contents
+
+1. [Day 1: Package Materials Part-1](#day-1-package-materials-part-1)
+2. [Day 2: Package Materials Part-2](#day-2-package-materials-part-2)
+3. [Day 3: Package Materials Part-3](#day-3-package-materials-part-3)
+4. [Day 4: Package Quality & Reliability Part-1](#day-4-package-quality--reliability-part-1)
+5. [Day 5: Package Quality & Reliability Part-2](#day-5-package-quality--reliability-part-2)
+6. [Day 6: Package Quality & Reliability Part-3](#day-6-package-quality--reliability-part-3)
+7. [Day 7: Design For Reliability (DfR)](#day-7-design-for-reliability-dfr)
+
+---
 
 ### Day 1: Package Materials Part-1 
 **Overview of IC Package Materials**
