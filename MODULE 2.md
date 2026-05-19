@@ -223,6 +223,3 @@ When updating test firmware or ATE code, rigorous data hygiene prevents multi-mi
 * **JIRA:** Keep tickets perfectly synchronized with Git branches. Always attach raw failure data.
 * **THE FINAL CHECK RULE:** Double, triple, and quadruple check programs before pushing. A bad firmware release will immediately halt the production line.
 
----
-*This documentation is part of the internal training repository compiled for Module 2: Semiconductor Testing and Validation. Refer to accompanying modules for fabrication and specific tester logic coding guides.*
-
