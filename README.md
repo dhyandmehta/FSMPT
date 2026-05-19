@@ -103,13 +103,15 @@ Final Product
 
 If you found this repository useful:
 
-Star the repository  
+Star the repository ⭐
 Fork the repository  
 Share with semiconductor learners
 
 ---
 
-# Repository Link
+# Repository Links
 
-https://github.com/dhyandmehta/FSMPT
-https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST
+## 👥 Contributors
+
+-  **Dhyan Mehta** → [FSMPT Repository](https://github.com/dhyandmehta/FSMPT)  
+-  **Dev Makwana** → [Fundamental of Semiconductor Packaging and Manufacture Test](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST)
