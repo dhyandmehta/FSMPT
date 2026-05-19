@@ -1,5 +1,9 @@
 # MODULE 4: FUNDAMENTALS OF IC PACKAGE FAILURE ANALYSIS
 
+This module covers key packaging materials (EMC, substrate, interconnects, solder systems) and their role in IC package performance.
+It also introduces reliability fundamentals including thermal, mechanical, and moisture stress behavior.
+The module links material selection with reliability test methods used in semiconductor qualification.
+
 ## Table of Contents
 1. [Day 1: Introduction to Failure Analysis & Basic Flow](#day-1-introduction-to-failure-analysis--basic-flow)
 2. [Day 2: Electrical Data Analysis & EFA](#day-2-electrical-data-analysis--efa)
@@ -142,3 +146,19 @@ Applying the FA flow to real-world scenarios:
 2.  **Short/Leakage Failure Flow:** Verified via Curve Trace $\rightarrow$ IR Thermography (to find the hotspot) $\rightarrow$ Decap / Z-Grind $\rightarrow$ SEM/EDX to check for copper migration or foreign material shorts.
 
 <img width="2524" height="1417" alt="image" src="https://github.com/user-attachments/assets/832bdb54-5164-42da-abc3-71f001773c11" />
+
+
+<div align="center">
+
+**Dhyan Mehta**
+B.E. ECE
+
+[![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
+
+</div>
+
+---
+
+
+⭐ Star this repository if you found it useful.
