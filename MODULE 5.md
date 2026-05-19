@@ -153,8 +153,6 @@ To meet the demands of leading-edge manufacturing, Advanced Process Control (APC
 
 <div align="center">
 
-**Dhyan Mehta**
-B.E. ECE
 
 [![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
