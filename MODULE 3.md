@@ -165,3 +165,19 @@ Best done early in the New Product Introduction (NPI) stage using a combination 
 3.  **Bulk Solder Crack:** Occurs due to creep-fatigue under continuous cyclic loading.
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/96815278-f36d-479e-beb5-b135af718b91" />
+
+
+<div align="center">
+
+**Dhyan Mehta**
+B.E. ECE
+
+[![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
+
+</div>
+
+---
+
+
+⭐ Star this repository if you found it useful.
