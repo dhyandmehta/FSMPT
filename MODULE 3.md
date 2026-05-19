@@ -1,4 +1,4 @@
-# MODULE 3: FUNDAMENTALS OF SEMICONDUCTOR PACKAGING MATERIALS, QUALITY & RELIABILITY
+# Module 3: Fundamentals Of Semiconductor Packaging Materials, Quality & Reliability
 
 This module covers the core **materials, structures, and reliability mechanisms** used in semiconductor packaging.  
 It explains how package materials interact under mechanical, thermal, and electrical stress conditions across real manufacturing flows.  
@@ -169,8 +169,6 @@ Best done early in the New Product Introduction (NPI) stage using a combination 
 
 <div align="center">
 
-**Dhyan Mehta**
-B.E. ECE
 
 [![GitHub](https://img.shields.io/badge/GitHub-DhyanMehta-black?style=for-the-badge\&logo=github)](https://github.com/Devnmakwana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20Mehta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/dhyanmehta/)
